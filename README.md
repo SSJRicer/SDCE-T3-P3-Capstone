@@ -7,6 +7,10 @@ Team Noobs' members:
 | Samuel Hazak [__Team__ __Leader__]| Israel | samuelhazak@gmail.com |  
 | Gal Erez | Israel | ssjricer@gmail.com |
 
+### Due to Github upload limits, please download the models from [this link](https://drive.google.com/drive/folders/1ULWY3ytYvLv8mydpp-W3tUrPKP8Mxq_o?export=download), place them inside a folder named 'models', and place the folder inside 'ros/src/tl_detector/light_classification'.
+
+
+
 ## A few notes:
 
 * Each of us trained a different model on simulator data, one with 4 classes (red, yellow, green, unknown) and one with 2 classes (red, not red), both based on mobilenet.
